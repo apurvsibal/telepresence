@@ -1,5 +1,9 @@
 # Changelog
 
+### 2.3.3 (TBD)
+
+- Feature: `telepresence intercept` now supports a `--to-pod` flag that can be used to port-forward sidecars' ports from an intercepted pod
+
 ### 2.3.2 (TBD)
 
 - Change: The list of subnets that the virtual network interface will route is configured dynamically and will follow changes in the cluster.
